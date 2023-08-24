@@ -1,0 +1,192 @@
+ATC1	ATC2	count	level	document
+A04AA01	A04AD12	15	ingen	dokumenteret
+A04AA05	A04AD12	18	ingen	dokumenteret
+A04AA01	A10BA02	2	moderat	dokumenteret
+A04AA01	A10BD08	1	moderat	dokumenteret
+A01AB09	B01AA03	1	udtalt	veldokumenteret
+A02BC02	B01AA03	1	ingen	dokumenteret
+A11GA01	B01AA03	2	mulig	dokumenteret
+A02BC02	B01AC06	2	mulig	dokumenteret
+A02BC01	B01AC07	1	ingen	dokumenteret
+B01AB01	B01AC16	4	ingen	dokumenteret
+B01AB01	B01AC24	1	ingen	dokumenteret
+B01AB05	B01AC24	6	ingen	dokumenteret
+B01AC06	B01AX05	2	ingen	dokumenteret
+A11CA01	B03AA02	1	ingen	dokumenteret
+A12AA06	B03AA02	1	moderat	veldokumenteret
+A12AA07	B03AA02	17	moderat	veldokumenteret
+A12AX	B03AC	1	moderat	veldokumenteret
+B01AC06	B05BA10	2	ingen	dokumenteret
+B01AC06	B05BA10	2	mulig	dokumenteret
+B03AA02	B05BA10	3	moderat	veldokumenteret
+B03AA01	B05BB01	2	moderat	veldokumenteret
+B03AA07	B05BB01	2	moderat	veldokumenteret
+B03AC	B05BB01	5	moderat	veldokumenteret
+B03AA01	B05XA	1	moderat	veldokumenteret
+B03AA02	B05XA	9	moderat	veldokumenteret
+A12AA06	B05XA31	1	moderat	veldokumenteret
+A12AX	B05XA31	3	moderat	veldokumenteret
+B03AA02	B05XA31	2	moderat	veldokumenteret
+B05BA10	B05XA31	44	moderat	veldokumenteret
+B05BB01	B05XA31	3	moderat	veldokumenteret
+B05BB02	B05XA31	2	moderat	veldokumenteret
+B01AC06	C01DA02	3	uafklaret	begrænset dokumenteret
+C01BD01	C03AB01	1	uafklaret	dokumenteret
+A01AB03	C07AB02	12	moderat	dokumenteret
+C01BD01	C07AB02	1	moderat	dokumenteret
+B01AA03	C07AB07	1	ingen	begrænset dokumenteret
+C07AB02	C08CA05	3	ingen	dokumenteret
+A10BA02	C09AA04	1	mulig	ringe dokumenteret
+A10BB12	C09AA05	1	mulig	ringe dokumenteret
+A10AB05	C09AA10	1	mulig	veldokumenteret
+A10AB01	C09BA02	1	mulig	veldokumenteret
+A10AB05	C09BA02	2	mulig	veldokumenteret
+A10AE04	C09BA02	1	mulig	veldokumenteret
+A10BB12	C09DA01	1	mulig	ringe dokumenteret
+A10BB07	C10AA01	1	ingen	dokumenteret
+B05BA10	C10AA01	1	ingen	dokumenteret
+B05XC	C10AA01	1	uafklaret	dokumenteret
+C01BD01	C10AA01	1	udtalt	dokumenteret
+B01AA03	C10AA05	1	ingen	dokumenteret
+B01AC06	C10AA05	1	ingen	dokumenteret
+B01AC22	C10AA05	6	ingen	dokumenteret
+B01AC24	C10AA05	2	ringe	dokumenteret
+B01AF01	C10AA05	1	ingen	dokumenteret
+B05XC	C10AA05	1	ingen	begrænset dokumenteret
+C01BD01	C10AA07	1	mulig	ringe dokumenteret
+B02AA02	G03CA03	1	uafklaret	ringe dokumenteret
+A04AD12	H02AB02	12	moderat	dokumenteret
+A10BB12	H02AB02	2	mulig	ringe dokumenteret
+A10BB12	H02AB04	1	mulig	ringe dokumenteret
+G03CA03	H02AB04	1	mulig	dokumenteret
+A04AD12	H02AB06	14	ingen	begrænset dokumenteret
+B01AC06	H02AB09	7	ringe	dokumenteret
+A12AA06	H03AA01	1	moderat	dokumenteret
+A12AA07	H03AA01	14	moderat	dokumenteret
+B05BA10	H03AA01	3	moderat	dokumenteret
+B05XA31	H03AA01	2	moderat	dokumenteret
+B01AA03	J01CA01	1	moderat	ringe dokumenteret
+C08CA01	J01DC02	1	ingen	dokumenteret
+C03DA01	J01EE01	3	udtalt	dokumenteret
+C01AA05	J01FA01	2	moderat	dokumenteret
+C10AA05	J01FA01	3	mulig	dokumenteret
+A02BC05	J01FA09	1	ringe	dokumenteret
+C01AA05	J01FA09	1	moderat	veldokumenteret
+A01AB03	J01MA02	48	mulig	dokumenteret
+A02BC01	J01MA02	1	ingen	veldokumenteret
+A12AA06	J01MA02	5	moderat	veldokumenteret
+A12AA07	J01MA02	60	moderat	veldokumenteret
+B05BA01	J01MA02	1	moderat	veldokumenteret
+B05BA10	J01MA02	9	moderat	veldokumenteret
+B05BA10	J01MA02	9	moderat	dokumenteret
+B05BA10	J01MA02	9	mulig	veldokumenteret
+B05BA10	J01MA02	9	mulig	dokumenteret
+B05BA10	J01MA02	9	udtalt	veldokumenteret
+B05BA10	J01MA02	9	udtalt	dokumenteret
+B05BB01	J01MA02	33	moderat	veldokumenteret
+B05BB01	J01MA02	33	udtalt	veldokumenteret
+B05BB02	J01MA02	2	moderat	veldokumenteret
+B05BB02	J01MA02	2	moderat	dokumenteret
+B05BB02	J01MA02	2	mulig	veldokumenteret
+B05BB02	J01MA02	2	mulig	dokumenteret
+B05BB02	J01MA02	2	udtalt	veldokumenteret
+B05BB02	J01MA02	2	udtalt	dokumenteret
+C03DA01	J01MA02	4	mulig	dokumenteret
+B05BB01	J01MA14	9	moderat	begrænset dokumenteret
+B05BB01	J01MA14	9	mulig	begrænset dokumenteret
+C01BD01	J01XD01	38	uafklaret	ringe dokumenteret
+A06AD65	J01XX08	7	ingen	dokumenteret
+A11GA01	J01XX08	3	ingen	dokumenteret
+B01AA03	J01XX08	3	mulig	dokumenteret
+A02BC01	J02AC01	1	uafklaret	dokumenteret
+A03FA03	J02AC01	1	udtalt	begrænset dokumenteret
+B05XC	J02AC01	7	moderat	ringe dokumenteret
+J01FA01	J02AC01	12	udtalt	begrænset dokumenteret
+J01FA09	J02AC01	2	ingen	dokumenteret
+H02AB06	J02AC03	6	ringe	dokumenteret
+A03FA01	J02AC04	1	ingen	dokumenteret
+B05BA10	J02AC04	1	ingen	dokumenteret
+B05BB01	J02AC04	1	ingen	dokumenteret
+B05BB01	J04AB02	1	ingen	dokumenteret
+C07AB02	J04AB02	1	moderat	dokumenteret
+J01EE01	J05AB06	30	mulig	dokumenteret
+A02AA04	J05AH02	1	ingen	dokumenteret
+A12AX	J05AH02	1	ingen	dokumenteret
+B05BB01	J05AH02	15	ingen	dokumenteret
+A04AD12	L01AA01	7	ingen	dokumenteret
+A02BC02	L04AA06	17	mulig	veldokumenteret
+A12CC30	L04AA06	7	ingen	dokumenteret
+B05BB01	L04AA06	3	ingen	dokumenteret
+H02AB04	L04AA06	22	uafklaret	dokumenteret
+J01MA02	L04AA06	13	moderat	dokumenteret
+J01XD01	L04AA06	2	ringe	dokumenteret
+J05AB06	L04AA06	14	ingen	dokumenteret
+J05AB14	L04AA06	9	ingen	dokumenteret
+A06AD65	L04AD01	21	mulig	veldokumenteret
+B01AC06	L04AD01	1	ingen	veldokumenteret
+B05XC	L04AD01	1	mulig	veldokumenteret
+B05XC	L04AD01	1	mulig	ringe dokumenteret
+B05XC	L04AD01	1	ringe	veldokumenteret
+B05XC	L04AD01	1	ringe	ringe dokumenteret
+H02AB06	L04AD01	7	ingen	dokumenteret
+J01EE01	L04AD01	29	moderat	dokumenteret
+J02AX04	L04AD01	2	ringe	dokumenteret
+L01BA01	L04AD01	1	uafklaret	begrænset dokumenteret
+A02BC02	L04AD02	17	ingen	dokumenteret
+A06AD65	L04AD02	17	ingen	dokumenteret
+C08CA01	L04AD02	1	mulig	dokumenteret
+C08CA02	L04AD02	3	mulig	ringe dokumenteret
+J01XD01	L04AD02	1	udtalt	ringe dokumenteret
+L04AC02	L04AD02	25	udtalt	dokumenteret
+C03CA01	M01AE01	1	uafklaret	ringe dokumenteret
+C08CA01	M01AE01	1	ringe	dokumenteret
+C10AB04	M01AE01	1	mulig	begrænset dokumenteret
+J01GB03	M01AE01	4	uafklaret	ringe dokumenteret
+L01BA01	M04AA01	2	moderat	dokumenteret
+A01AB03	N01AX10	46	ingen	dokumenteret
+C01CA24	N01BB09	11	uafklaret	dokumenteret
+A01AB03	N02AA01	7	mulig	dokumenteret
+N01BB02	N02AA01	2	mulig	dokumenteret
+N01BB51	N02AA01	2	mulig	dokumenteret
+N01BB52	N02AA01	1	mulig	dokumenteret
+N01BB53	N02AA01	1	mulig	dokumenteret
+N01BB52	N02AA51	7	mulig	dokumenteret
+C03CA01	N02AJ06	1	ringe	begrænset dokumenteret
+B01AB01	N02BA01	12	moderat	veldokumenteret
+A03BB01	N02BE01	1	uafklaret	dokumenteret
+C01CA06	N02BE01	7	mulig	dokumenteret
+M01AE01	N02BE01	1	moderat	dokumenteret
+J01XD01	N03AA02	11	ringe	veldokumenteret
+N02BE01	N03AA02	1	mulig	ringe dokumenteret
+J01MA02	N03AF01	3	moderat	begrænset dokumenteret
+B05BB01	N03AG01	14	ingen	dokumenteret
+B05BB01	N03AG01	14	ringe	dokumenteret
+J01DH02	N03AG01	4	moderat	dokumenteret
+J05AB01	N03AG01	11	uafklaret	ringe dokumenteret
+N03AA02	N03AG01	1	moderat	veldokumenteret
+B05BA10	N03AX12	2	uafklaret	veldokumenteret
+B05BB01	N03AX12	2	uafklaret	veldokumenteret
+N02AA51	N03AX12	18	mulig	dokumenteret
+C01BD01	N05AD01	1	mulig	dokumenteret
+N02AB03	N05AD01	1	uafklaret	ringe dokumenteret
+N03AF01	N05AD01	1	moderat	veldokumenteret
+J01XD01	N05AN01	1	moderat	begrænset dokumenteret
+J01MA02	N05BA01	3	ingen	veldokumenteret
+G03CA03	N05CD05	1	ringe	ringe dokumenteret
+H02AB02	N05CD05	49	ingen	dokumenteret
+H02AB04	N05CD08	7	ringe	ringe dokumenteret
+J01FA09	N05CD08	1	udtalt	veldokumenteret
+J01XD01	N05CD08	23	ingen	dokumenteret
+J02AC01	N05CD08	4	moderat	veldokumenteret
+N01AH01	N05CD08	57	udtalt	ringe dokumenteret
+C01BD01	N06AB04	1	udtalt	ringe dokumenteret
+N01AH01	N06AB04	1	mulig	ringe dokumenteret
+N05CD05	N06AB04	3	ingen	dokumenteret
+M01AB05	N07BC02	1	ingen	dokumenteret
+C01BD01	P01AB01	2	uafklaret	ringe dokumenteret
+J01XD01	R03AK07	4	ingen	dokumenteret
+P01AB01	R03AK07	1	ingen	dokumenteret
+J01XD01	R03BA02	20	ingen	dokumenteret
+C07AB02	V03AE02	2	ingen	dokumenteret
+J01MA02	V03AE02	2	moderat	dokumenteret
+M01AE01	V04CX	1	moderat	veldokumenteret
