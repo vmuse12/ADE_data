@@ -1,6 +1,6 @@
 # ADE_data
-data available for paper entitled "Assessment of Drug Impact on Laboratory Test Results in Hospital Settings"
+Supplemental figures and data for paper entitled "Assessment of Drug Impact on Laboratory Test Results in Hospital Settings"
 
-This data is provided as supplementary data for a accepted paper for PSB conference in 2025. 
+This data is provided as supplementary data for an accepted paper for PSB conference in 2025. 
 
-meta data updated on September 22, 2024. 
+meta data updated on September 30, 2024. 
